@@ -1,0 +1,5 @@
+c:\Users\whiteclaw\documents\visual studio 2013\Projects\Login\MiLibreria\bin\Debug\MiLibreria.dll
+c:\Users\whiteclaw\documents\visual studio 2013\Projects\Login\MiLibreria\bin\Debug\MiLibreria.pdb
+c:\Users\whiteclaw\documents\visual studio 2013\Projects\Login\MiLibreria\obj\Debug\MiLibreria.csprojResolveAssemblyReference.cache
+c:\Users\whiteclaw\documents\visual studio 2013\Projects\Login\MiLibreria\obj\Debug\MiLibreria.dll
+c:\Users\whiteclaw\documents\visual studio 2013\Projects\Login\MiLibreria\obj\Debug\MiLibreria.pdb

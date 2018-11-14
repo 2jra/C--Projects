@@ -1,0 +1,11 @@
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.exe.config
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.exe
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.pdb
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.csprojAssemblyReference.cache
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Form1.resources
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Properties.Resources.resources
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.csproj.GenerateResource.cache
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.exe
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.pdb
+C:\Users\Whiteclaw\Documents\Proyectos y Clases\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Actualizar.resources
