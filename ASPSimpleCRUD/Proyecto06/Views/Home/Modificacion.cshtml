@@ -1,0 +1,79 @@
+﻿
+@{
+    Layout = null;
+}
+@model Proyecto06.Models.Pelicula
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Modificacion</title>
+</head>
+<body>
+    <div>
+        <form method="post" action="/Home/Modificacion">
+            <h1>Registro de Peliculas</h1>
+            <table class="auto-style1">
+                <tr>
+                    <td>Codigo</td>
+                    <td>
+                        <input type="text" name="Codigo" value="@Model.Codigo" readonly/>
+                    </td>
+                </tr>
+                    <tr>
+                        <td>Titulo</td>
+                        <td>
+                            <input type="text" name="Titulo" value="@Model.Titulo"/>
+                        </td>
+                    </tr>
+
+                        <tr>
+                            <td>Director</td>
+                            <td>
+                                <input type="text" name="Director" value="@Model.Director"/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Autor Principal</td>
+                            <td>
+                                <input type="text" name="AutorPrincipal" value="@Model.AutorPrincipal"/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>No_Actores</td>
+                            <td>
+                                <input type="text" name="numAutores" value="@Model.numAutores"/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Duracion</td>
+                            <td>
+                                <input type="text" name="Duracion" value="@Model.Duracion"/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="auto-style2">Estreno</td>
+                            <td>
+                                <input type="text" name="Estreno" value="@Model.Estreno"/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="auto-style2"></td>
+                            <td>
+                                <input type="submit" value="Confirmar" />
+                            </td>
+                        </tr>
+                
+            </table>
+
+        </form>
+    </div>
+</body>
+</html>
