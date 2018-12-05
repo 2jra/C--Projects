@@ -1,0 +1,12 @@
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\Propuesto07.Models.dll.config
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\Propuesto07.Models.dll
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\Propuesto07.Models.pdb
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\EntityFramework.dll
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\EntityFramework.xml
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\obj\Debug\Propuesto07.Models.csprojAssemblyReference.cache
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\obj\Debug\Propuesto07.Models.csproj.CoreCompileInputs.cache
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\obj\Debug\Propuesto07.Models.csproj.CopyComplete
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\obj\Debug\Propuesto07.Models.dll
+C:\Users\Whiteclaw\Documents\Desarrollo Web C# Mesyst\Ejercicios ASP.NET\Tema #02\Propuesto07\Propuesto07.Models\obj\Debug\Propuesto07.Models.pdb
